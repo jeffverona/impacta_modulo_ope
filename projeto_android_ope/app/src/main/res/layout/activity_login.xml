@@ -9,7 +9,7 @@
 
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/editLogin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -17,7 +17,7 @@
         android:inputType="textPersonName" />
 
     <EditText
-        android:id="@+id/editText2"
+        android:id="@+id/editSenha"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:ems="10"
@@ -25,7 +25,7 @@
         android:inputType="textPassword" />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/btnEntrar"
         android:layout_width="120dp"
         android:layout_height="wrap_content"
         android:text="Entrar" />
